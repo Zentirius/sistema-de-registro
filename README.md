@@ -3,5 +3,5 @@
 - Estado del proyecto en construccion
 
   Para ejectuar el sistema, debes poner :
-  `````nmp instal react``````
-</h1>
+  
+  ```npm install react```
